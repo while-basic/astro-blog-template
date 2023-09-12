@@ -4,7 +4,7 @@
 
 <hr/>
 <h3 align="center">
-  ⭐Leave a star if you like this project!⭐️
+  Astro Blog Template
 </h3>
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdanielcgilibert%2Fblog-template)
@@ -24,16 +24,6 @@
 
 - [**English**](https://github.com/danielcgilibert/blog-template/blob/main/README.md)
 - [**Español**](https://github.com/danielcgilibert/blog-template/blob/main/README.es.md)
-
-## 💻 Demo
-
-Check out the [Demo](https://blog-template-gray.vercel.app/), hosted on Vercel
-<br/>
-
-
-https://github.com/danielcgilibert/blog-template/assets/44746462/56b8399e-cc5b-45a8-b9d2-d69833ecadb1
-
-
 
 ## ⚙️ Stack
 
@@ -66,6 +56,7 @@ https://github.com/danielcgilibert/blog-template/assets/44746462/56b8399e-cc5b-4
 - ✅ Copy code block (new)
 
 ## 🛣️ Roadmap
+
 - ❌ Add post author
 - ❌ Add customization with colors
 - ❌ Add Pagination
@@ -179,9 +170,3 @@ All commands are run from the root of the project, from a terminal:
 | `pnpm run format`       | Format codes with Prettier                                                                                                       |
 | `pnpm run sync`         | Generates TypeScript types for all Astro modules. [Learn more](https://docs.astro.build/en/reference/cli-reference/#astro-sync). |
 | `pnpm run lint`         | Lint with ESLint                                                                                                                 |
-
-## 👋 Contributors
-
-<a href="https://github.com/danielcgilibert/blog-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=danielcgilibert/blog-template" />
-</a>
