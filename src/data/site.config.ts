@@ -8,9 +8,9 @@ interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-	author: 'DanielCG',
-	title: 'Astro Theme OpenBlog',
-	description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+	author: 'Christopher Celaya',
+	title: '3-minute blog',
+	description: 'Short snippets of information.',
 	lang: 'en-GB',
 	ogLocale: 'en_GB',
 	shareMessage: 'Share this post' // Message to share a post on social media

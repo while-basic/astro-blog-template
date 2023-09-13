@@ -61,7 +61,7 @@
 .glass {
 	backdrop-filter: blur(15px) saturate(150%);
 	-webkit-backdrop-filter: blur(15px) saturate(180%);
-	background-color: rgba(255, 255, 255, 0.05);
+	background-color: #316cb54d;
 	border: 1px solid rgba(255, 255, 255, 0.05);
 	z-index: -1;
 }
