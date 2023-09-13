@@ -1,3 +1,5 @@
+// BASIC BLOG METADATA
+
 interface SiteConfig {
 	author: string
 	title: string
